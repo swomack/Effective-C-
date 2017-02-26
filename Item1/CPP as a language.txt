@@ -1,0 +1,13 @@
+Think C++ as a combination of 4 sub-languages with 4 different convensions. Each sublanguage has its own convension and rules - 
+
+1) C: Its base part. Not flexible. No class, no exception handling, no template.
+
+2) Object Oriented c++: Its the part with class, inheritance, polymorphism(overloading), dynamic binding (virtual functions), encapsulation. This part works with the object oriented design priniciples.
+
+3) Template: This part works with template. It introduces generic programming. It introduces a new programming paradigm "Template Metaprogramming".
+
+4) STL: This is a library made of template. We should consider it a different aspect of c++ even though it has been created using template. 
+
+
+Things to Remember
+✦ Rules for effective C++ programming vary, depending on the part of C++ you are using.
